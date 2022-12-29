@@ -1,1 +1,2 @@
-*.imagens
+# Dependency directories
+imagens/
